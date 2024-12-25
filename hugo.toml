@@ -1,3 +1,4 @@
 baseURL = 'https://dukechill.github.io/chill-blog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = "blowfish"
